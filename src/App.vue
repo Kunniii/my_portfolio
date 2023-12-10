@@ -5,7 +5,9 @@ import Skills from "./views/Skills.vue";
 </script>
 
 <template>
-  <div class="flex">
+  <div class="flex flex-col">
+    <MyInfo></MyInfo>
     <Projects></Projects>
+    <Skills></Skills>
   </div>
 </template>

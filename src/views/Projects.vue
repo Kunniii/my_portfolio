@@ -2,7 +2,7 @@
 import { ref } from "vue";
 import ProjectCard from "../components/ProjectCard.vue";
 
-const projects = ref([]);
+const projects = ref(null);
 
 fetch("https://raw.githubusercontent.com/Kunniii/my_cv/data/projects.json")
   .then((data) => data.json())
@@ -15,10 +15,11 @@ fetch("https://raw.githubusercontent.com/Kunniii/my_cv/data/projects.json")
   });
 </script>
 
-<template>
+<template v-if="projects">
+  <h2 class="text-center font-bold text-5xl py-10">My Projects</h2>
+  <hr class="pb-10 w-96 mx-auto" />
   <div class="projects-container">
     <ProjectCard
-      v-if="projects"
       v-for="project in projects"
       :key="project.name"
       :image="project.img"

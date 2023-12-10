@@ -35,13 +35,15 @@ function getImage(skillName) {
       />
       <div class="p-2">
         <h1 class="font-bold text-lg">{{ props.title }}</h1>
-        <p>{{ props.description }}</p>
+        <p class="overflow-hidden h-12">
+          {{ props.description }}
+        </p>
       </div>
-      <div class="px-2 grid grid-cols-5 gap-2">
+      <div class="px-2 grid grid-cols-8 gap-2">
         <img
           v-for="name in props.tech"
           :src="getImage(name.toLowerCase())"
-          class=""
+          class="my-auto"
           :alt="name"
           :title="name"
         />
