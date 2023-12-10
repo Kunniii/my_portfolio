@@ -17,7 +17,7 @@
     "name": "YourMeal",
     "url": "https://github.com/Kunniii/YourMeal",
     "img": "https://images.unsplash.com/photo-1547592180-85f173990554?w=512",
-    "description": "A CMS created in Golang and PostgreSQL",
+    "description": "Random dish to cook based on your ingredients",
     "tech": ["python", "flask", "vue", "mongodb", "docker"]
   },
   {
@@ -28,7 +28,7 @@
     "tech": ["html", "css", "js", "gh-action"]
   },
   {
-    "name": "QR Code ",
+    "name": "QR Code Generator",
     "url": "https://qr.codechovui.dev",
     "img": "https://images.unsplash.com/photo-1682072155213-856c2ab9d629?w=512",
     "description": "My project to create/generate QR code when user input data.",
@@ -72,7 +72,7 @@
   {
     "name": "A headless CMS",
     "url": "https://github.com/kunniii/gocms",
-    "img": "https://images.unsplash.com/photo-11600267165477-6d4cc741b379?w=512",
+    "img": "https://images.unsplash.com/photo-1600267165477-6d4cc741b379?w=512",
     "description": "A CMS created in Golang and PostgreSQL",
     "tech": ["go", "postgresql", "docker"]
   }
