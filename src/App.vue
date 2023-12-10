@@ -1,7 +1,9 @@
-<script setup lang="ts">
+<script setup>
 import Projects from "./views/Projects.vue";
 </script>
 
 <template>
-  <Projects></Projects>
+  <div class="flex w-[80vw] mx-auto">
+    <Projects></Projects>
+  </div>
 </template>
