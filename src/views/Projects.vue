@@ -24,6 +24,8 @@ fetch("https://raw.githubusercontent.com/Kunniii/my_cv/data/projects.json")
       :image="project.img"
       :title="project.name"
       :url="project.url"
+      :description="project.description"
+      :tech="project.tech"
     ></ProjectCard>
   </div>
 </template>
