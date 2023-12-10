@@ -1,12 +1,5 @@
 [
   {
-    "name": "Code Cho Vui Blog",
-    "url": "https://codechovui.dev",
-    "img": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=512",
-    "description": "This is where I share my knowledge and experience doing projects and hacking!",
-    "tech": ["gh-action"]
-  },
-  {
     "name": "Tiger Group",
     "url": "http://tigergroup.vn/",
     "img": "https://images.unsplash.com/photo-1599658880436-c61792e70672?w=512",
@@ -21,10 +14,66 @@
     "tech": ["wp", "php", "mysql", "docker", "nginx"]
   },
   {
+    "name": "YourMeal",
+    "url": "https://github.com/Kunniii/YourMeal",
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?w=512",
+    "description": "A CMS created in Golang and PostgreSQL",
+    "tech": ["python", "flask", "vue", "mongodb", "docker"]
+  },
+  {
+    "name": "Code Cho Vui Blog",
+    "url": "https://codechovui.dev",
+    "img": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=512",
+    "description": "This is where I share my knowledge and experience doing projects and hacking!",
+    "tech": ["html", "css", "js", "gh-action"]
+  },
+  {
     "name": "QR Code Generator",
     "url": "https://qr.codechovui.dev",
     "img": "https://images.unsplash.com/photo-1682072155213-856c2ab9d629?w=512",
     "description": "My project to create/generate QR code when user input data.",
-    "tech": ["react", "gh-action", "nodejs", "docker", "nginx"]
+    "tech": ["react", "vite", "tailwind", "gh-action", "node"]
+  },
+  {
+    "name": "Random Paragraph Generator",
+    "url": "https://random-paragraph.codechovui.dev",
+    "img": "https://images.unsplash.com/photo-1634128221889-82ed6efebfc3?w=512",
+    "description": "Generate a random paragraph!",
+    "tech": ["react", "vite", "tailwind", "gh-action", "node"]
+  },
+  {
+    "name": "Keep track of spending",
+    "url": "https://spending.codechovui.dev/",
+    "img": "https://images.unsplash.com/photo-1512358958014-b651a7ee1773?w=512",
+    "description": "Manage all of my spending!",
+    "tech": ["vue", "vite", "tailwind", "gh-action", "node"]
+  },
+  {
+    "name": "RSS of CodeChoVui Blog",
+    "url": "https://rss.codechovui.dev/",
+    "img": "https://images.unsplash.com/photo-1508921340878-ba53e1f016ec?w=512",
+    "description": "Fetch and render RSS from Code Cho Vui Blog!",
+    "tech": ["React", "vite", "tailwind", "gh-action", "node"]
+  },
+  {
+    "name": "Automation for Edunext System",
+    "url": "https://chromewebstore.google.com/detail/edn-auto-v3/jcoanhnlcggnjkefelkngdpongoaipdk",
+    "img": "https://images.unsplash.com/photo-1649006865574-8d077cefec17?w=512",
+    "description": "Fetch and render RSS from Code Cho Vui Blog!",
+    "tech": ["vue", "ts", "vite", "tailwind", "gh-action", "node"]
+  },
+  {
+    "name": "A new way for Todo list",
+    "url": "https://lifeflow.codechovui.dev",
+    "img": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=512",
+    "description": "Life flow is a more focus way to manage tasks, especially for ADHD",
+    "tech": ["react", "ts", "vite", "tailwind", "gh-action", "node"]
+  },
+  {
+    "name": "A headless CMS - GOCMS",
+    "url": "https://github.com/kunniii/gocms",
+    "img": "https://images.unsplash.com/photo-11600267165477-6d4cc741b379?w=512",
+    "description": "A CMS created in Golang and PostgreSQL",
+    "tech": ["go", "postgresql", "docker"]
   }
 ]
