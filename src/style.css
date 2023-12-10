@@ -6,6 +6,7 @@
 html {
   @apply bg-zinc-50;
   font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
 }
 
 .project-card {
@@ -30,4 +31,20 @@ html {
 
 .hover-scale-105 {
   @apply hover:scale-105 duration-150;
+}
+
+nav > a {
+  @apply my-auto py-2 font-bold;
+}
+
+nav > p {
+  @apply my-auto py-2;
+}
+
+nav > a > img {
+  @apply w-10 h-10;
+}
+
+span {
+  @apply pt-10;
 }

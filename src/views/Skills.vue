@@ -2,7 +2,7 @@
 import SkillCard from "../components/SkillCard.vue";
 </script>
 <template>
-  <h2 class="text-center font-bold text-5xl pt-10 pb-5">Skills</h2>
+  <h2 class="text-center font-bold text-5xl pt-5 pb-10">Skills</h2>
   <hr class="pb-10 w-96 mx-auto" />
 
   <h3 class="text-center font-bold text-3xl py-10">Programming Languages</h3>
