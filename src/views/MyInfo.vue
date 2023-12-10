@@ -1,6 +1,10 @@
 <script setup></script>
 
 <template>
+  <h2 class="text-center font-bold text-5xl pt-5 pb-3">HELLO!</h2>
+  <hr class="pb-3 w-96 mx-auto" />
+  <h3 class="text-center text-xl">My name is</h3>
+
   <div class="py-5 grid grid-cols-2 gap-5 mx-auto">
     <div>
       <img
@@ -13,7 +17,7 @@
       <div>
         <p class="my-2 font-bold text-2xl">Nguyen Phi Truong</p>
         <p class="my-2 w-60 text-justify">
-          Full-stack developer, Cyber security, and on my way to be a DevOps.
+          A full-stack developer, Cyber security, and on my way to be a DevOps.
         </p>
         <p class="my-4 underline">
           <a href="mailto:truongnphi@codechovui.dev">truongnphi@codechovui.dev</a>

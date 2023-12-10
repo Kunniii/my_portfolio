@@ -28,18 +28,21 @@ function getImage(skillName) {
 </script>
 <template>
   <div class="project-card overflow-hidden">
-    <a :href="props.url">
+    <a
+      :href="props.url"
+      target="_blank"
+    >
       <img
         :src="props.image"
-        class="w-64 h-48 object-cover"
+        class="w-96 h-48 object-cover"
       />
       <div class="p-2">
         <h1 class="font-bold text-lg">{{ props.title }}</h1>
-        <p class="overflow-hidden h-12">
+        <p class="overflow-hidden h-24">
           {{ props.description }}
         </p>
       </div>
-      <div class="px-2 grid grid-cols-8 gap-2">
+      <div class="px-4 grid grid-cols-8 gap-2">
         <img
           v-for="name in props.tech"
           :src="getImage(name.toLowerCase())"
