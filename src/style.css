@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.card {
+  @apply rounded-md shadow hover:shadow-md hover:scale-105 duration-150;
+}

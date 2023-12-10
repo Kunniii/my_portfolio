@@ -1,3 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Projects from "./views/Projects.vue";
+</script>
 
-<template></template>
+<template>
+  <Projects></Projects>
+</template>
