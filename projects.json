@@ -23,7 +23,7 @@
   {
     "name": "My CV",
     "url": "https://kunniii.github.io/my_cv",
-    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?w=512",
+    "img": "https://images.unsplash.com/photo-1698047681432-006d2449c631",
     "description": "This online CV of mine!",
     "tech": ["bun", "Vue", "vite", "tailwind", "gh-action"]
   },
