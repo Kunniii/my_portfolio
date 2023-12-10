@@ -21,6 +21,13 @@
     "tech": ["python", "flask", "vue", "mongodb", "docker"]
   },
   {
+    "name": "My CV",
+    "url": "https://kunniii.github.io/my_cv",
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?w=512",
+    "description": "This online CV of mine!",
+    "tech": ["bun", "Vue", "vite", "tailwind", "gh-action"]
+  },
+  {
     "name": "Code Cho Vui Blog",
     "url": "https://codechovui.dev",
     "img": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=512",
