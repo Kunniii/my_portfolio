@@ -2,16 +2,22 @@
   {
     "name": "TEST JSON 1",
     "url": "https://codechovui.dev",
-    "img": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?w=512"
+    "img": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?w=512",
+    "description": "What is this project about",
+    "tech": ["Vue", "Vite", "Github Actions"]
   },
   {
     "name": "TEST JSON 2",
     "url": "https://codechovui.dev",
-    "img": "https://images.unsplash.com/photo-1701941258075-ae093a5f0185?w=512"
+    "img": "https://images.unsplash.com/photo-1701941258075-ae093a5f0185?w=512",
+    "description": "What is this project about",
+    "tech": ["React", "Vite", "Github Actions"]
   },
   {
     "name": "TEST JSON 3",
     "url": "https://codechovui.dev",
-    "img": "https://images.unsplash.com/photo-1701687771055-bcad403a904c?w=512"
+    "img": "https://images.unsplash.com/photo-1701687771055-bcad403a904c?w=512",
+    "description": "What is this project about",
+    "tech": ["React", "Vite", "Bun", "Github Actions"]
   }
 ]
