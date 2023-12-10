@@ -4,7 +4,6 @@ import MyInfo from "./views/MyInfo.vue";
 import Projects from "./views/Projects.vue";
 import Skills from "./views/Skills.vue";
 </script>
-
 <template>
   <NavBar></NavBar>
   <div class="flex flex-col mt-12">

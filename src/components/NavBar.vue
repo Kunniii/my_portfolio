@@ -10,6 +10,13 @@
     <a href="#skills">Skills</a>
     <a>|</a>
     <a
+      href="https://www.linkedin.com/in/phi-tr%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-351928215/"
+      target="_blank"
+      class="font-mono hover:underline"
+    >
+      linkedin
+    </a>
+    <a
       href="https://fb.com/Nguyen.PhiTruong.5801"
       target="_blank"
       class="font-mono hover:underline"
@@ -22,13 +29,6 @@
       class="font-mono hover:underline"
     >
       X (twitter)
-    </a>
-    <a
-      href="https://www.instagram.com/n.phi.truong/"
-      target="_blank"
-      class="font-mono hover:underline"
-    >
-      instagram
     </a>
   </nav>
 </template>
