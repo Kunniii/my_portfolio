@@ -15,8 +15,9 @@
         <p class="my-2 w-60 text-justify">
           Full-stack developer, Cyber security, and on my way to be a DevOps.
         </p>
-        <p class="mt-4"><a href="tel:+84901095801">+84 901 095 801</a></p>
-        <p class=""><a href="mailto:truongnphi@codechovui.dev">truongnphi@codechovui.dev</a></p>
+        <p class="my-4 underline">
+          <a href="mailto:truongnphi@codechovui.dev">truongnphi@codechovui.dev</a>
+        </p>
       </div>
       <div>
         <a href="mailto:truongnphi@gmail.com"
