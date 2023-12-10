@@ -1,23 +1,30 @@
 [
   {
-    "name": "TEST JSON 1",
+    "name": "Code Cho Vui Blog",
     "url": "https://codechovui.dev",
-    "img": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?w=512",
-    "description": "What is this project about",
-    "tech": ["Vue", "Vite", "gh-action"]
+    "img": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=512",
+    "description": "This is where I share my knowledge and experience doing projects and hacking!",
+    "tech": ["gh-action"]
   },
   {
-    "name": "TEST JSON 2",
-    "url": "https://codechovui.dev",
-    "img": "https://images.unsplash.com/photo-1701941258075-ae093a5f0185?w=512",
-    "description": "What is this project about",
-    "tech": ["React", "Vite", "gh-action"]
+    "name": "Tiger Group",
+    "url": "http://tigergroup.vn/",
+    "img": "https://images.unsplash.com/photo-1599658880436-c61792e70672?w=512",
+    "description": "This is my first client to work with! The website is for Ecommerce and SEO",
+    "tech": ["wp", "php", "mysql", "docker", "nginx"]
   },
   {
-    "name": "TEST JSON 3",
-    "url": "https://codechovui.dev",
-    "img": "https://images.unsplash.com/photo-1701687771055-bcad403a904c?w=512",
-    "description": "What is this project about",
-    "tech": ["React", "Vite", "Bun", "gh-action"]
+    "name": "Giải pháp xây dựng T&T",
+    "url": "http://giaiphapxaydungtt.vn/",
+    "img": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=512",
+    "description": "This project is to develop a website with Ecommerce and SEO for construction solution",
+    "tech": ["wp", "php", "mysql", "docker", "nginx"]
+  },
+  {
+    "name": "QR Code Generator",
+    "url": "https://qr.codechovui.dev",
+    "img": "https://images.unsplash.com/photo-1682072155213-856c2ab9d629?w=512",
+    "description": "My project to create/generate QR code when user input data.",
+    "tech": ["react", "gh-action", "nodejs", "docker", "nginx"]
   }
 ]
