@@ -4,14 +4,14 @@
     "url": "http://tigergroup.vn/",
     "img": "https://images.unsplash.com/photo-1599658880436-c61792e70672?w=512",
     "description": "This is my first client to work with! The website is for Ecommerce and SEO",
-    "tech": ["wp", "php", "mysql", "docker", "nginx"]
+    "tech": ["linux", "wp", "php", "mysql", "docker", "nginx"]
   },
   {
     "name": "Giải pháp xây dựng T&T",
     "url": "http://giaiphapxaydungtt.vn/",
     "img": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=512",
     "description": "This project is to develop a website with Ecommerce and SEO for construction solution",
-    "tech": ["wp", "php", "mysql", "docker", "nginx"]
+    "tech": ["linux", "wp", "php", "mysql", "docker", "nginx"]
   },
   {
     "name": "YourMeal",
