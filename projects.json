@@ -82,5 +82,12 @@
     "img": "https://images.unsplash.com/photo-1600267165477-6d4cc741b379?w=512",
     "description": "A CMS created in Golang and PostgreSQL",
     "tech": ["go", "postgresql", "docker"]
+  },
+  {
+    "name": "Gemini Client",
+    "url": "https://gemini.codechovui.dev",
+    "img": "https://images.unsplash.com/photo-1600267165477-6d4cc741b379?w=512",
+    "description": "A client to interact with Gemini AI - by Google",
+    "tech": ["Vue", "vite", "ts", "gh-action", "tailwind", "bun"]
   }
 ]
