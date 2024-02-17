@@ -1,5 +1,7 @@
 <script setup>
 import NavBar from "./components/NavBar.vue";
+import Contact from "./views/Contact.vue";
+import Footer from "./views/Footer.vue";
 import MyInfo from "./views/MyInfo.vue";
 import Projects from "./views/Projects.vue";
 import Skills from "./views/Skills.vue";
@@ -13,5 +15,9 @@ import Skills from "./views/Skills.vue";
     <Projects></Projects>
     <span id="skills"></span>
     <Skills></Skills>
+    <span id="contact"></span>
+    <Contact></Contact>
+
+    <Footer></Footer>
   </div>
 </template>

@@ -24,9 +24,9 @@
         </p>
       </div>
       <div>
-        <a href="mailto:truongnphi@gmail.com"
+        <a href="#footer"
           ><button
-            class="bg-blue-400 hover:bg-blue-500 text-white text-xl font-bold button hover-scale-105 w-full"
+            class="bg-blue-500 hover:bg-blue-600 text-white text-xl font-bold button hover-scale-105 w-full"
           >
             Connect with Me!
           </button>
