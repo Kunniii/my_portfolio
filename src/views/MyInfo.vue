@@ -41,25 +41,25 @@
     <a
       href="https://www.linkedin.com/in/phi-tr%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-351928215/"
       target="_blank"
-      class="font-mono hover:underline"
+      class="font-mono hover:underline mx-2"
     >
-      linkedin
+      {{ "linkedin" }}
     </a>
     <a>|</a>
     <a
       href="https://fb.com/Nguyen.PhiTruong.5801"
       target="_blank"
-      class="font-mono hover:underline"
+      class="font-mono hover:underline mx-2"
     >
-      facebook
+      {{ "facebook" }}
     </a>
     <a>|</a>
     <a
       href="https://x.com/ng_phi_truong"
       target="_blank"
-      class="font-mono hover:underline"
+      class="font-mono hover:underline mx-2"
     >
-      X (twitter)
+      {{ "X (twitter)" }}
     </a>
   </div>
 </template>
