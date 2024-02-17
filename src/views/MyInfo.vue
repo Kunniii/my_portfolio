@@ -24,7 +24,7 @@
         </p>
       </div>
       <div>
-        <a href="#footer"
+        <a href="#contact"
           ><button
             class="bg-blue-500 hover:bg-blue-600 text-white text-xl font-bold button hover-scale-105 w-full"
           >
