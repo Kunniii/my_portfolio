@@ -11,10 +11,10 @@ import Skills from "./views/Skills.vue";
   <div class="flex flex-col mt-12">
     <span id="info"></span>
     <MyInfo></MyInfo>
-    <span id="projects"></span>
-    <Projects></Projects>
     <span id="skills"></span>
     <Skills></Skills>
+    <span id="projects"></span>
+    <Projects></Projects>
     <span id="contact"></span>
     <Contact></Contact>
 
