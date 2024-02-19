@@ -20,6 +20,7 @@ const name = ref("");
         <input
           type="text"
           id="name"
+          placeholder="John Doe"
           class="bg-gray-100 border border-gray-50 rounded-lg py-2 px-4"
         />
         <label
@@ -29,6 +30,7 @@ const name = ref("");
         >
         <textarea
           id="message"
+          placeholder="Hi!"
           class="bg-gray-100 border border-gray-50 rounded-lg py-2 px-4"
         ></textarea>
         <button
