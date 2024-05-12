@@ -4,7 +4,7 @@ import ProjectCard from "../components/ProjectCard.vue";
 
 const projects = ref(null);
 
-fetch("https://raw.githubusercontent.com/Kunniii/my_cv/data/projects.json")
+fetch("https://raw.githubusercontent.com/Kunniii/my_portfolio/data/projects.json")
   .then((data) => data.json())
   .then((data) => (projects.value = data))
   .catch((e) => {
