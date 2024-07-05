@@ -1,5 +1,5 @@
 <script setup>
-import SkillCard from "../components/SkillCard.vue";
+  import SkillCard from "../components/SkillCard.vue";
 </script>
 <template>
   <h2 class="text-center font-bold text-5xl pt-5 pb-10">Skills</h2>

@@ -1,6 +1,6 @@
 <script setup>
-import { ref } from "vue";
-const name = ref("");
+  import { ref } from "vue";
+  const name = ref("");
 </script>
 
 <template>

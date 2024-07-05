@@ -1,30 +1,30 @@
 <script setup>
-const props = defineProps({
-  image: {
-    type: String,
-    required: true,
-  },
-  title: {
-    type: String,
-    required: true,
-  },
-  url: {
-    type: String,
-    required: true,
-  },
-  description: {
-    type: String,
-    required: true,
-  },
-  tech: {
-    type: Array,
-    required: true,
-  },
-});
+  const props = defineProps({
+    image: {
+      type: String,
+      required: true,
+    },
+    title: {
+      type: String,
+      required: true,
+    },
+    url: {
+      type: String,
+      required: true,
+    },
+    description: {
+      type: String,
+      required: true,
+    },
+    tech: {
+      type: Array,
+      required: true,
+    },
+  });
 
-function getImage(skillName) {
-  return "/skills/" + skillName + ".png";
-}
+  function getImage(skillName) {
+    return "/skills/" + skillName + ".png";
+  }
 </script>
 <template>
   <div class="project-card overflow-hidden">

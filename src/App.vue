@@ -1,10 +1,10 @@
 <script setup>
-import NavBar from "./components/NavBar.vue";
-import Contact from "./views/Contact.vue";
-import Footer from "./views/Footer.vue";
-import MyInfo from "./views/MyInfo.vue";
-import Projects from "./views/Projects.vue";
-import Skills from "./views/Skills.vue";
+  import NavBar from "./components/NavBar.vue";
+  import Contact from "./views/Contact.vue";
+  import Footer from "./views/Footer.vue";
+  import MyInfo from "./views/MyInfo.vue";
+  import Projects from "./views/Projects.vue";
+  import Skills from "./views/Skills.vue";
 </script>
 <template>
   <NavBar></NavBar>

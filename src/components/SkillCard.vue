@@ -1,9 +1,9 @@
 <script setup>
-const props = defineProps(["name", "level"]);
+  const props = defineProps(["name", "level"]);
 
-function getImage(skillName) {
-  return "/skills/" + skillName + ".png";
-}
+  function getImage(skillName) {
+    return "/skills/" + skillName + ".png";
+  }
 </script>
 
 <template>

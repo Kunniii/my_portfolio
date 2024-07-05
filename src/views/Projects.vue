@@ -1,15 +1,15 @@
 <script setup>
-import { ref } from "vue";
-import ProjectCard from "../components/ProjectCard.vue";
+  import { ref } from "vue";
+  import ProjectCard from "../components/ProjectCard.vue";
 
-const projects = ref(null);
+  const projects = ref(null);
 
-fetch("https://raw.githubusercontent.com/Kunniii/my_portfolio/data/projects.json")
-  .then((data) => data.json())
-  .then((data) => (projects.value = data))
-  .catch((e) => {
-    console.log(e);
-  });
+  fetch("https://raw.githubusercontent.com/Kunniii/my_portfolio/data/projects.json")
+    .then((data) => data.json())
+    .then((data) => (projects.value = data))
+    .catch((e) => {
+      console.log(e);
+    });
 </script>
 
 <template v-if="projects">
