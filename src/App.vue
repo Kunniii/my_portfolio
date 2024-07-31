@@ -17,7 +17,6 @@
     <Projects></Projects>
     <span id="contact"></span>
     <Contact></Contact>
-
     <Footer></Footer>
   </div>
 </template>
